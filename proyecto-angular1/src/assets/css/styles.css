@@ -1,0 +1,19 @@
+@font-face{
+	font-family: "yanone";
+	src:url("fonts/yanone.ttf");
+}
+@font-face{
+	font-family: "fingere";
+	src:url("fonts/finger.ttf");
+}
+/*Generales*/
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	font-family: "yanone",Arial,Helvetica;
+	font-size: 20px;
+	background: url("../img/pattern.png");
+}
