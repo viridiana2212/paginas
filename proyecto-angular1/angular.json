@@ -24,11 +24,11 @@
             ],
             "styles": [
               "src/assets/css/styles.css",
-              "src/assets/bxslider/dist/jquery.bxslider.min.css"
+              "src/assets/bxslider/dist/jquery.bxslider.min.js"
             ],
             "scripts": [
               "node_modules/jquery/dist/jquery.min.js",
-              "src/assets/bxslider/dist/jquery.bxslider.min.js"
+              "src/assets/bxslider/dist/jquery.min.js"
             ]
           },
           "configurations": {
